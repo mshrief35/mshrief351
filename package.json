@@ -1,0 +1,20 @@
+{
+  "name": "mshrief351",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "mshrief35",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mshrief35/mshrief351.git"
+  }
+}
